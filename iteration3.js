@@ -15,5 +15,5 @@ let x = y + z;
 alert (x)
 
 
-{let x = y * z;
-alert (x);}
+x = y * z;
+alert (x);
